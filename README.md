@@ -1,6 +1,5 @@
 # Ecommerce Product Page
 
-- Live website -(https://cpwd-ecommerce-product-page.netlify.app/)
 
 ## Table of contents
 
@@ -48,8 +47,3 @@ Users should be able to:
 
 - [Debugging JavaScript in Visual Studio Code and Google Chrome](https://www.youtube.com/watch?v=AX7uybwukkk&ab_channel=JamesQQuick) - this video taught me how to debug my javascript using the debugger tool in developer tools
 
-## Author
-
-- Website - [Carlos Perez](https://carlospwd.netlify.app/)
-- Frontend Mentor - [@Carlos-A-P](https://www.frontendmentor.io/profile/Carlos-A-P)
-- Twitter - [@WDCarlosP](https://www.twitter.com/WDCarlosP)
